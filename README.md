@@ -1,21 +1,31 @@
-Estrutura do Projeto
-O projeto é composto por um arquivo index.html que contém:
+# 🌟 **Cadastro Enrolados**
 
-Um cabeçalho com o título "🌟 Cadastro Real 🌟".
+**Este projeto é uma página HTML dedicada ao universo encantado do filme _Enrolados_**, da Disney.  
+A página simula um **formulário de cadastro real**, inspirado no estilo mágico e nas cores da princesa Rapunzel.  
+O design utiliza tons de **roxo** e **dourado**, remetendo ao tema dos cabelos mágicos e das lanternas flutuantes.  
+A proposta é oferecer uma experiência visual suave, encantadora e inspirada em contos de fadas.
 
-Um formulário de cadastro com campos para nome, email e senha.
+---
 
-Um botão estilizado com o texto "Cadastrar ✨".
+## 🧱 **Estrutura do Projeto**
 
-Estilo visual inspirado no tema Enrolados, com uso de cores mágicas e layout centralizado.
+O projeto é composto por um arquivo `index.html` que contém:
 
-Elementos visuais como bordas arredondadas, sombras suaves e emojis para reforçar o tema encantado.
+- **Um cabeçalho** com o título “🌟 Cadastro Real 🌟”.
+- **Um formulário de cadastro** com os campos:
+  - Nome
+  - Email
+  - Senha
+- **Um botão estilizado** com o texto "Cadastrar ✨".
+- **Estilo visual inspirado no tema _Enrolados_**, com layout centralizado, bordas arredondadas e emojis mágicos.
 
-Estrutura de Diretórios
-bash
-Copiar
-Editar
+---
+
+## 📁 **Estrutura de Diretórios**
+
 /cadastro-enrolados
-├── index.html       # Página principal com o formulário de cadastro
-├── style.css        # (opcional) Arquivo com estilos personalizados
-└── README.md        # Arquivo de documentação do projeto
+├── index.html # Página principal com o formulário de cadastro
+├── style.css # Arquivo com os estilos personalizados (opcional)
+└── README.md # Arquivo de documentação do projeto
+
+
