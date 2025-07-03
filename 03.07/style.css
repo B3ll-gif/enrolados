@@ -1,0 +1,58 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .fundo-escuro {
+    background-color:#4B0082;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+  }
+
+  .cartao {
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 30px;
+    color: white;
+    border: 1px solid #f4d03f;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+  }
+
+  .titulo {
+    font-family: 'Segoe Script', cursive;
+    font-size: 2rem;
+    color: #f4d03f;
+  }
+
+  .form-label {
+    color: #FFD700;
+  }
+
+  .form-control {
+    background-color: #9400D3;
+    color: white;
+    border: none;
+  }
+
+  .form-control::placeholder {
+    color: #FFCC00;
+  }
+
+  .botao-lanterna {
+    background-color: #f4d03f;
+    color: #8A2BE2;
+    border: none;
+    font-weight: bold;
+  }
+
+  .botao-lanterna:hover {
+    background-color: #e2b313;
+  }
