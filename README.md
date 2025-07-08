@@ -4,6 +4,14 @@
 A página simula um **formulário de cadastro real**, inspirado no estilo mágico e nas cores da princesa Rapunzel.  
 O design utiliza tons de **roxo** e **dourado**, remetendo ao tema dos cabelos mágicos e das lanternas flutuantes.  
 A proposta é oferecer uma experiência visual suave, encantadora e inspirada em contos de fadas.
+---
+*Print da tela*
+
+
+
+![{D73D2F8C-CF70-40C3-AFA8-9EF9236AE4FD}](https://github.com/user-attachments/assets/86d33b5c-d37f-4b42-b809-52d5fdf03f3e)
+
+
 
 ---
 
